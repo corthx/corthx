@@ -19,6 +19,7 @@ For more information, check out my [website](https://hervaud.fr) or my [LinkedIn
 - **[mr-title-lint](https://gitlab.com/corthx/mr-title-lint)**: GitLab CI/CD component validating merge request titles, Conventional Commits by default
 - **[mr-source-branch-lint](https://gitlab.com/corthx/mr-source-branch-lint)**: GitLab CI/CD component validating merge request source branch names
 - **[openapi-generator-kotlintoolchain-plugin](https://gitlab.com/corthx/openapi-generator-kotlintoolchain-plugin)**: OpenAPI Generator plugin for Kotlin Toolchain projects
+- **[zed-ext-http](https://gitlab.com/corthx/zed-ext-http)**: Zed editor extension adding HTTP support
 
 ## 🤝 Where I'm contributing
 
