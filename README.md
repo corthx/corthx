@@ -15,7 +15,7 @@ For more information, check out my [website](https://hervaud.fr) or my [LinkedIn
 
 ## 🛠️ My projects
 
-- **[Water Me](https://waterme.hervaud.fr/)**: mobile app featuring Spiky, a virtual cactus whose watering reminders get more and more passive-aggressive (coming soon to iOS & Android)
+- **[Water Me](https://waterme.hervaud.fr/)**: mobile app featuring Spiky, a virtual cactus whose watering reminders get more and more passive-aggressive
 - **[mr-title-lint](https://gitlab.com/corthx/mr-title-lint)**: GitLab CI/CD component validating merge request titles, Conventional Commits by default
 - **[mr-source-branch-lint](https://gitlab.com/corthx/mr-source-branch-lint)**: GitLab CI/CD component validating merge request source branch names
 - **[openapi-generator-kotlintoolchain-plugin](https://gitlab.com/corthx/openapi-generator-kotlintoolchain-plugin)**: OpenAPI Generator plugin for Kotlin Toolchain projects
